@@ -1,9 +1,14 @@
-### anjan211.github.io
+# Github Page
 
-## Introduction
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
 
-This repository contains files of my web profile. It is updated via SSH using static website designer Publii.
-
+## General info
+This is a my personal website repository built on Github Pages.
+	
 ## Technologies
-
-Mainly designed using Publii with custom CSS and HTML codes.
+Website is created with:
+* Publii static site generator
+* HTML
+* CSS
